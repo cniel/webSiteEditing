@@ -1,0 +1,3 @@
+{"ts":1373442587400,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1373442953652,"patch":[[{"diffs":[[1,"<!DOCTYPE>\n<html>\n    <head>\n        <title>Home page</title>\n        <meta charset=\"utf-8\" />\n    </head>\n    \n    <body>\n        <h1>Home page title</h1>\n    </body>\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":175}]],"length":175,"saved":false}
+{"ts":1373443370836,"patch":[[{"diffs":[[0,"f-8\" />\n"],[1,"        <link rel=\"stylesheet\" href=\"css/home.css\" />\n"],[0,"    </he"]],"start1":87,"start2":87,"length1":16,"length2":70}]],"length":229,"saved":false}
